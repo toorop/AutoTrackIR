@@ -1,0 +1,13 @@
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/sirupsen/logrus v1.8.1 h1:dJKuHgqk1NNQlqoA6BTlM1Wf9DOH3NBjQyu0h9+AZZE=
+github.com/sirupsen/logrus v1.8.1/go.mod h1:yWOB1SBYBC5VeMP7gHvWumXLIWorT60ONWic61uBYv0=
+github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
+github.com/toorop/msfs2020-simconnect-go v0.4.1-0.20211123152113-5582ccdc89d5 h1:o4zo48p13jwnINj0GSPGNuY9KAbjU0tLEk9LFffB3E4=
+github.com/toorop/msfs2020-simconnect-go v0.4.1-0.20211123152113-5582ccdc89d5/go.mod h1:dQbwyL07DBq1v1tPQX55+IwveK5loh9TnLg3ttAcIAQ=
+github.com/toorop/msfs2020-simconnect-go v0.4.1-0.20211123154513-efe4009c72ef h1:NO8sMbKpGhfjl9OIonD4J0DECmZcVS85Ob1Ymwlmdq0=
+github.com/toorop/msfs2020-simconnect-go v0.4.1-0.20211123154513-efe4009c72ef/go.mod h1:dQbwyL07DBq1v1tPQX55+IwveK5loh9TnLg3ttAcIAQ=
+github.com/toorop/msfs2020-simconnect-go v0.4.1-0.20211125162145-1082ea3db5f5 h1:/RcXzTvlFltjRxthQP28jWK/4GhSN+o7mt02zip63Wo=
+github.com/toorop/msfs2020-simconnect-go v0.4.1-0.20211125162145-1082ea3db5f5/go.mod h1:dQbwyL07DBq1v1tPQX55+IwveK5loh9TnLg3ttAcIAQ=
+golang.org/x/sys v0.0.0-20191026070338-33540a1f6037 h1:YyJpGZS1sBuBCzLAR1VEpK193GlqGZbnPFnPV/5Rsb4=
+golang.org/x/sys v0.0.0-20191026070338-33540a1f6037/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
